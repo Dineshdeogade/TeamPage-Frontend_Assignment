@@ -1,3 +1,5 @@
+![teampage](https://github.com/Dineshdeogade/TeamPage-Frontend_Assignment/assets/85934387/94627a1b-8102-4beb-8a01-f929bf2d62a9)
+
 [Team Page - Session 3 Takehome.docx](https://github.com/Dineshdeogade/TeamPage-Frontend_Assignment/files/13998814/Team.Page.-.Session.3.Takehome.docx)
 Team Page 
 Concepts covered - Block and Inline tags, Semantic Tags, CSS Basics, Internal CSS, Element, Class, and ID selectors, Selector Grouping. 
